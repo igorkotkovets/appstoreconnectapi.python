@@ -1,2 +1,3 @@
-# appstoreconnectapi.python
-AppStore Connect API client. Create and list certificates. 
+# App Store Connect API python client
+
+Automate tasks on the Apple Developer website and App Store Connect
